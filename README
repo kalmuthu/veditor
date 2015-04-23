@@ -11,4 +11,41 @@ Steps for intallation:
 
 Note: 
   During the installation, installation script will take backup of your old .bash*, .vim*, .screenrc*, .netrc* and few other . xx files and will be stored in backup folder in home directory.
+  
+  
+  Jump to definition ( CTRL + \\)
+![](https://github.com/kalmuthu/v-editor/blob/master/docs/definition.png)
+
+
+Jump to Reference ( CTRL + r) or (CTRL + e + r)
+![](https://github.com/kalmuthu/v-editor/blob/master/docs/reference.png)
+
+
+
+Find files (CTRL + p)
+![](https://github.com/kalmuthu/v-editor/blob/master/docs/path.png)
+
+
+
+Find strings ( CTRL + gg) or (CTRL + g) or (CTRL + f)
+![](https://github.com/kalmuthu/v-editor/blob/master/docs/grep.png)
+
+
+Auto complete( just press . or -> )
+![](https://github.com/kalmuthu/v-editor/blob/master/docs/autocomplete.png)
+
+
+sub-pattern ( CTRL + T)
+![](https://github.com/kalmuthu/v-editor/blob/master/docs/sub-pattern.png)
+
+Taglist ( F9 ) or ( CTRL + T)
+![](https://github.com/kalmuthu/v-editor/blob/master/docs/taglist.png)
+
+
+
+
+
+
+
+
 
