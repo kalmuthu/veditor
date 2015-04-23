@@ -11,6 +11,12 @@ Steps for intallation:
 
 Note: 
   During the installation, installation script will take backup of your old .bash*, .vim*, .screenrc*, .netrc* and few other . xx files and will be stored in backup folder in home directory.
+
+Steps for Running:
+----------------------
+1. Go to source code base folder 
+2. Run the "gtags" command
+3. Done!
   
 ## DOCUMENTATION
 
