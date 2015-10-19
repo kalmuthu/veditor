@@ -20,21 +20,21 @@ Steps for Running:
   
 ## DOCUMENTATION
 
-  Jump to definition ( CTRL + \\)
+  Jump to definition ( CTRL + \\) or (CTRL + f + x) 
 ![image](https://github.com/kalmuthu/v-editor/blob/master/docs/definition.png)
 
 
-Jump to Reference ( CTRL + r) or (CTRL + e + r)
+Jump to Reference ( CTRL + r) or (CTRL + f + r)
 ![image](https://github.com/kalmuthu/v-editor/blob/master/docs/reference.png)
 
 
 
-Find files (CTRL + p)
+Find files (CTRL + f + p)
 ![image](https://github.com/kalmuthu/v-editor/blob/master/docs/path.png)
 
 
 
-Find strings ( CTRL + gg) or (CTRL + g) or (CTRL + f)
+Find strings ( CTRL + ff) or (CTRL + g) or (CTRL + f)
 ![image](https://github.com/kalmuthu/v-editor/blob/master/docs/grep.png)
 
 
@@ -48,7 +48,8 @@ sub-pattern ( CTRL + T)
 Taglist ( F9 ) or ( CTRL + T)
 ![image](https://github.com/kalmuthu/v-editor/blob/master/docs/taglist.png)
 
-
+Find within file or tag search result ( CTRL + f + t)
+![image](https://github.com/kalmuthu/v-editor/blob/master/docs/definition.png)
 
 
 
