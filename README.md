@@ -88,9 +88,10 @@ Comment/Uncomment source code lines:
 
 To Comment:
 
-    Selete block + &lt;CTRL + C&gt;
+  Selete block + &lt;CTRL + C&gt;
 
 
 To UnComment:
-    Selete block + &lt;CTRL + X&gt;
+  
+  Selete block + &lt;CTRL + X&gt;
 
