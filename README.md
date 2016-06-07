@@ -92,14 +92,14 @@ Comment:
 "                                       GTAGS KEY BINDINGS
 "==================================================================
 
-let g:gtags_open_defination                             = '<C-\>'               " Jump to definition of symbol
-let g:gtags_open_defination_left_hand   = '<C-E>'               "
-let g:gtags_open_defination_ctags_stype = '<C-]>'
-let g:gtags_open_reference                              = '<C-R>'
+let g:gtags_open_defination             = '<C-\>' <BR>
+let g:gtags_open_defination_left_hand   = '<C-E>' <BR>              "
+let g:gtags_open_defination_ctags_stype = '<C-]>' <BR>
+let g:gtags_open_reference              = '<C-R>' <BR>
 let g:gtags_open_local_sym_reference    = '<C-S>'
-let g:gtags_open_raw_string_search              = '<C-G>'
-let g:gtags_open_navigation_path                = '<C-T>'
-let g:gtags_close_tag                                   = '<C-D>'
+let g:gtags_open_raw_string_search      = '<C-G>'
+let g:gtags_open_navigation_path        = '<C-T>'
+let g:gtags_close_tag                   = '<C-D>'
 
 let g:gtags_cmd_open_kg_search          = '<C-F><C-F>'
 let g:gtags_cmd_open_definition         = '<C-X><C-X>'
