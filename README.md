@@ -69,16 +69,23 @@ Background Theme
 Multiple Cliboard Copy and Paste
 Copy:
 1. Select + Yank (CTRL+v / SHIFT +V +  Y)
+
 2. Select + Yank (CTRL+v / SHIFT +V +  Y)
+
 3. Select + Yank (CTRL+v / SHIFT +V +  Y)
 
 Paste:
 3. Paste last (CTRL + P / CTRL + N)
+
 2. Paste Second last ( CTRL+P CTRL+P / CTRL+N CTRL+N)
+
 1. Paste third last ( CTRL+P CTRL+P CTRL+P / CTRL+N CTRL+N CTRL+N)
+
   and so on...
 
+
 Comment/Uncomment source code lines:
+
 Comment:
     Selete block + <CTRL + C>
 
@@ -92,10 +99,10 @@ Comment:
 "                                       GTAGS KEY BINDINGS
 "==================================================================
 
-let g:gtags_open_defination             = '<C-\>' <BR>
-let g:gtags_open_defination_left_hand   = '<C-E>' <BR>              "
-let g:gtags_open_defination_ctags_stype = '<C-]>' <BR>
-let g:gtags_open_reference              = '<C-R>' <BR>
+let g:gtags_open_defination             = '<C-\>' 
+let g:gtags_open_defination_left_hand   = '<C-E>' 
+let g:gtags_open_defination_ctags_stype = '<C-]>' 
+let g:gtags_open_reference              = '<C-R>' 
 let g:gtags_open_local_sym_reference    = '<C-S>'
 let g:gtags_open_raw_string_search      = '<C-G>'
 let g:gtags_open_navigation_path        = '<C-T>'
