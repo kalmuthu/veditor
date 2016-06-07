@@ -19,38 +19,39 @@ Steps for Running:
 3. Done!
   
 ## DOCUMENTATION
-
-  Jump to definition ( CTRL + \\) or (CTRL + f + x) 
-![image](https://github.com/kalmuthu/v-editor/blob/master/docs/definition.png)
-
-
-Jump to Reference ( CTRL + r) or (CTRL + f + r)
-![image](https://github.com/kalmuthu/v-editor/blob/master/docs/reference.png)
+Jump to definition ( CTRL + \\) or (CTRL + xx) or ( CTRL +])
+![](https://github.com/kalmuthu/v-editor/blob/master/docs/definition.png)
 
 
-
-Find files (CTRL + f + p)
-![image](https://github.com/kalmuthu/v-editor/blob/master/docs/path.png)
+Jump to Reference ( CTRL + r) or (CTRL + r + r)
+![](https://github.com/kalmuthu/v-editor/blob/master/docs/reference.png)
 
 
 
-Find strings ( CTRL + ff) or (CTRL + g) or (CTRL + f)
-![image](https://github.com/kalmuthu/v-editor/blob/master/docs/grep.png)
+Find files (CTRL + p + p)
+![](https://github.com/kalmuthu/v-editor/blob/master/docs/path.png)
+
+
+
+Find raw strings ( CTRL + g), Find regex strings (CTRL + gg) 
+![](https://github.com/kalmuthu/v-editor/blob/master/docs/grep.png)
 
 
 Auto complete( just press . or -> )
-![image](https://github.com/kalmuthu/v-editor/blob/master/docs/autocomplete.png)
+![](https://github.com/kalmuthu/v-editor/blob/master/docs/autocomplete.png)
 
 
-sub-pattern ( CTRL + T)
-![image](https://github.com/kalmuthu/v-editor/blob/master/docs/sub-pattern.png)
+Find within a file or find within a search result( CTRL + SS)
+![](https://github.com/kalmuthu/v-editor/blob/master/docs/sub-pattern.png)
 
-Taglist ( F9 ) or ( CTRL + T)
-![image](https://github.com/kalmuthu/v-editor/blob/master/docs/taglist.png)
+Navigation List ( CTRL + T)
+![](https://github.com/kalmuthu/v-editor/blob/master/docs/taglist.png)
 
-Find within file or tag search result ( CTRL + f + t)
-![image](https://github.com/kalmuthu/v-editor/blob/master/docs/definition.png)
+Jump/return Back to previous navigation  (CTRL -D)
+![](https://github.com/kalmuthu/v-editor/blob/master/docs/grep.png)
 
+Multiple Word highlight
+![](https://github.com/kalmuthu/veditor/blob/master/docs/highlight.png)
 
 
 
