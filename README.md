@@ -86,10 +86,11 @@ Paste:
 
 Comment/Uncomment source code lines:
 
-Comment:
+To Comment:
+
     Selete block + &lt;CTRL + C&gt;
 
 
-Comment:
+To UnComment:
     Selete block + &lt;CTRL + X&gt;
 
