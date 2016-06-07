@@ -50,13 +50,20 @@ Navigation List ( CTRL + T)
 Jump/return Back to previous navigation  (CTRL + D), Close current Tag(CTRL + D)
 ![](https://github.com/kalmuthu/v-editor/blob/master/docs/grep.png)
 
-Multiple Word highlight/unhighlight ( SHIFT + ?)
+Multiple Word highlight/unhighlight ( <SPACE> )
 ![](https://github.com/kalmuthu/veditor/blob/master/docs/highlight.png)
 
 
 Seach with KG tools (CTRL + FF)
 ![](https://github.com/kalmuthu/veditor/blob/master/docs/kg_search.png)
 
+
+Background Theme 
+~/.vimrc: let g:vim_background_color_scheme  = 'klight'
+![](https://github.com/kalmuthu/veditor/blob/master/docs/bg_klight.png)
+
+~/.vimrc: let g:vim_background_color_scheme  = 'kdark'
+![](https://github.com/kalmuthu/veditor/blob/master/docs/bg_kdark.png)
 
 
 
