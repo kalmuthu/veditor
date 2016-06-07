@@ -47,13 +47,15 @@ Find within a file or find within a search result( CTRL + SS)
 Navigation List ( CTRL + T)
 ![](https://github.com/kalmuthu/v-editor/blob/master/docs/taglist.png)
 
-Jump/return Back to previous navigation  (CTRL -D)
+Jump/return Back to previous navigation  (CTRL + D), Close current Tag(CTRL + D)
 ![](https://github.com/kalmuthu/v-editor/blob/master/docs/grep.png)
 
-Multiple Word highlight
+Multiple Word highlight/unhighlight ( SHIFT + ?)
 ![](https://github.com/kalmuthu/veditor/blob/master/docs/highlight.png)
 
 
+Seach with KG tools (CTRL + FF)
+![](https://github.com/kalmuthu/veditor/blob/master/docs/kg_search.png)
 
 
 
