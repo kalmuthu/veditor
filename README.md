@@ -85,9 +85,9 @@ Paste:
 
 
 Auto complete
-X-PATTERN: sym<TAB><TAB>   => Symbol automplete
-R-PATTERN: sym<TAB><TAB>   => Symbol automplete
-P-PATTERN: file<TAB><TAB>   => File name  automplete
+X-PATTERN: sym&lt;TAB&gt;&lt;TAB>   =&gt; Symbol automplete
+R-PATTERN: sym&lt;TAB&gt;&lt;TAB>   =&gt; Symbol automplete
+P-PATTERN: file&lt;TAB&gt;&lt;TAB>  =&gt; File name  automplete
 
 
 Comment/Uncomment source code lines:
@@ -102,14 +102,16 @@ To UnComment:
   Selete block + &lt;CTRL + X&gt;
 
 ----------------------------------------------------
+
 BASH Commands
+-------------
 
 
-x <symbol name>   => Open the vim and jumps to definition
-r <symbol name>   => Open the vim and list all the references
-p <file name>     => Open the file in vim 
+x &lt;symbol name&gt;   =&gt; Open the vim and jumps to definition
+r &lt;symbol name&gt;   =&gt; Open the vim and list all the references
+p &lt;file name&gt;     =&gt; Open the file in vim 
 
 
 TAB Completion:
 --------------
-x  sym<TAB><TAB>  => Auto complete the symbol
+x  sym&lt;TAB>&lt;TAB>  => Auto complete the symbol
