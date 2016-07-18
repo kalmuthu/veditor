@@ -84,6 +84,12 @@ Paste:
   and so on...
 
 
+Auto complete
+X-PATTERN: sym<TAB><TAB>   => Symbol automplete
+R-PATTERN: sym<TAB><TAB>   => Symbol automplete
+P-PATTERN: file<TAB><TAB>   => File name  automplete
+
+
 Comment/Uncomment source code lines:
 
 To Comment:
@@ -95,3 +101,15 @@ To UnComment:
   
   Selete block + &lt;CTRL + X&gt;
 
+----------------------------------------------------
+BASH Commands
+
+
+x <symbol name>   => Open the vim and jumps to definition
+r <symbol name>   => Open the vim and list all the references
+p <file name>     => Open the file in vim 
+
+
+TAB Completion:
+--------------
+x  sym<TAB><TAB>  => Auto complete the symbol
