@@ -84,7 +84,10 @@ Paste:
   and so on...
 
 
+
+
 Auto complete
+-------------
 
 X-PATTERN: sym&lt;TAB&gt;&lt;TAB>   =&gt; Symbol automplete
 
@@ -93,7 +96,10 @@ R-PATTERN: sym&lt;TAB&gt;&lt;TAB>   =&gt; Symbol automplete
 P-PATTERN: file&lt;TAB&gt;&lt;TAB>  =&gt; File name  automplete
 
 
+
+
 Comment/Uncomment source code lines:
+------------------------------------
 
 To Comment:
 
@@ -104,7 +110,10 @@ To UnComment:
   
   Selete block + &lt;CTRL + X&gt;
 
+
+
 ----------------------------------------------------
+
 
 BASH Commands
 -------------
