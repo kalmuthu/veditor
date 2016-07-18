@@ -85,8 +85,11 @@ Paste:
 
 
 Auto complete
+
 X-PATTERN: sym&lt;TAB&gt;&lt;TAB>   =&gt; Symbol automplete
+
 R-PATTERN: sym&lt;TAB&gt;&lt;TAB>   =&gt; Symbol automplete
+
 P-PATTERN: file&lt;TAB&gt;&lt;TAB>  =&gt; File name  automplete
 
 
@@ -108,10 +111,15 @@ BASH Commands
 
 
 x &lt;symbol name&gt;   =&gt; Open the vim and jumps to definition
+
 r &lt;symbol name&gt;   =&gt; Open the vim and list all the references
+
 p &lt;file name&gt;     =&gt; Open the file in vim 
 
 
 TAB Completion:
 --------------
+
 x  sym&lt;TAB>&lt;TAB>  => Auto complete the symbol
+
+
