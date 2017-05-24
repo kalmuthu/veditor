@@ -132,3 +132,7 @@ TAB Completion:
 x  sym&lt;TAB>&lt;TAB>  => Auto complete the symbol
 
 
+
+Search Over multiple GTAGS files:
+---------------------------------
+export GTAGSLIBPATH=<gtags path dirs>
