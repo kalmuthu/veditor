@@ -18,7 +18,7 @@ Steps for Running:
 2. Run the "gtags" command
 3. Done!
   
-## DOCUMENTATION
+### DOCUMENTATION
 Jump to definition ( CTRL + \\) or (CTRL + xx) or ( CTRL +])
 ![](https://github.com/kalmuthu/v-editor/blob/master/docs/definition.png)
 
